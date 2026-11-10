@@ -35,7 +35,7 @@ merge(collection_1: number[], collection_2: number[], collection_3: number[]): n
 
 ### 2. Installation
 Clone the repository and install the development dependencies:
-```shell
+```
 git clone https://github.com/panichaponcd/merge-test-1.git
 cd merge-sort-test
 npm install
@@ -43,12 +43,12 @@ npm install
 
 ### 3. Run Unit Tests
 Execute the test suite using Jest:
-```shell
+```
 npm test
 ```
 
 ### 4. Build Project
 Compile TypeScript into JavaScript (dist/ folder):
-```shell
+```
 npm run build
 ```
