@@ -37,7 +37,7 @@ merge(collection_1: number[], collection_2: number[], collection_3: number[]): n
 Clone the repository and install the development dependencies:
 ```
 git clone https://github.com/panichaponcd/merge-test-1.git
-cd merge-sort-test
+cd merge-sort-test-1
 npm install
 ```
 
